@@ -39,14 +39,14 @@ export const services = [
   },
 ]
 
-// export const products_url = 'https://course-api.com/react-store-products'
+export const products_url = 'https://course-api.com/react-store-products'
 
-// export const single_product_url = `https://course-api.com/react-store-single-product?id=`
+export const single_product_url = `https://course-api.com/react-store-single-product?id=`
 
 // export const products_url = 'http://localhost:8888/api/products'
 
 // export const single_product_url = `http://localhost:8888/api/products?id=`
 
-export const products_url = '/api/products'
+// export const products_url = '/api/products'
 
-export const single_product_url = `/api/products?id=`
+// export const single_product_url = `/api/products?id=`
